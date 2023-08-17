@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemon List App</string>
+    <string name="pokemons">Pokemons</string>
+    <string name="height">Height : 70cm</string>
+    <string name="weight">Weight</string>
+    <string name="types">Types: grass,poison</string>
+    <string name="language">Language</string>
+    <string name="name">Guess the pokemon</string>
+    <string name="action_bar_title">Back</string>
+    <string name="pokemon_font">pokemon_solid.ttf</string>
+    <string name="search">search</string>
+</resources>
