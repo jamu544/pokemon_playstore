@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Pokemon List App</string>
+    <string name="app_name">Pokemons</string>
     <string name="pokemons">Pokemons</string>
-    <string name="height">Height : 70cm</string>
-    <string name="weight">Weight</string>
-    <string name="types">Types: grass,poison</string>
+    <string name="height">0</string>
+    <string name="weight">0</string>
+    <string name="types">none</string>
     <string name="language">Language</string>
     <string name="name">Guess the pokemon</string>
     <string name="action_bar_title">Back</string>
